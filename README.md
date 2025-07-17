@@ -18,7 +18,3 @@ This game is called "towerDefense: the Tower Defense game". It's a tower defense
 10) You lose if you let enough enemies through the gates. This is only possible during round 4 or later. When an enemy reaches the end of the path, you lose lives based on how much HP that enemy has left. Enemies' HP is increased by 1 during every even round, excluding round 2.</br>
 </br>
 Good luck!
-
-
-
-School git Page with all the commits: https://github.com/Stuycs-K/final-project-9-velazquezrugamai-palisoula
