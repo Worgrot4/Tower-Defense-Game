@@ -21,4 +21,4 @@ Good luck!
 
 
 
-School git Page with all the commits: https://github.com/stuycs-gh-classrooms/11-final-israel-v
+School git Page with all the commits: https://github.com/Stuycs-K/final-project-9-velazquezrugamai-palisoula
